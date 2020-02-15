@@ -1,4 +1,24 @@
-<h2> Cara install soal nomor 6 </h2>
+# Seleksi Arkademy
+
+<p> disini saya menggunakan bahasa Pemrograman php </p>
+
+# software yang dibutuhkan:
+<ul>
+  <li> Text Editor (Visual studio code) </li>
+  <li> XAMMP </li>
+  <li> Composer (soal no 6)</li>
+  <li> Web Browser (Google Crome) </li>
+</ul>
+
+# Cara Menjalankan aplikasi:
+<ul>
+  <li>Buat folder nama_folder pada C/xammp/htdoc</li>
+  <li>Kemudian clone data pada link github </li>
+  <li>buka web browser(Google Crome / Mozilla Firefox) </li>
+  <li>lalu klik localhost/nama_folder</li>
+</ul>
+
+# Cara install soal nomor 6
 
 1. Clone/download dulu projectnya
 3. Install depedency dengan cara "composer install" di folder multiuser manggunakan cmd
