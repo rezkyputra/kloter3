@@ -30,3 +30,13 @@
 9. Jalankan projectnya dengan cara "php artisan serve" pada cmd
 
 Nb : di pc harus terinstall composer
+
+# Screenshot
+<p> Index </p>
+<img src="img/index.png" width="350" title="hover text">
+<p> Tambah </p>
+<img src="img/tambah.png" width="350" title="hover text">
+<p> Edit </p>
+<img src="img/edit.png" width="350" title="hover text">
+<p> Delete </p>
+<img src="img/delete.png" width="350" title="hover text">
