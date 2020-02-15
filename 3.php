@@ -6,7 +6,11 @@ function countchar($kalimat, $ganti){
             $count++;
         } 
     }
-    return $count;
+    if($count>0){
+        return $count;
+    }else{
+        return "Not found!";
+    }
 }
 
-echo countchar('rezkyputraakkif','k');
+echo countchar('rezkyputraakkif','x');

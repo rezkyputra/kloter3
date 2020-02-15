@@ -12,5 +12,12 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+
+Route::get('/product', 'ProductController@index');
+Route::get('/product/tambah', 'ProductController@tambah');
+Route::post('/product', 'ProductController@add');
+Route::get('/product/edit/{id}', 'ProductController@edit');
+Route::put('/product/{id}', 'ProductController@update');
+Route::delete('/product/{id}/delete', 'ProductController@delete');
